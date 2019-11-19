@@ -1,14 +1,14 @@
-#cv_bridge python 3
+# cv_bridge python 3
 This is a sample code of using python3 and cv_bridge in ROS. The node will publish the image from `cv2.VideoCaputre(0)` 
 to topic. 
 
-##Prerequisite
+## Prerequisite
 - ubuntu 18.04
 - python 3.6 (include pip, opencv, numpy, yaml and so on)
 - python 2.7 (include pip)
 - ros-melodic-desktop-full
 
-##Installation
+## Installation
 Install some dependency library. 
 ```
 sudo apt-get install python-catkin-tools python3-dev python3-catkin-pkg-modules ros-melodic-cv-bridge
