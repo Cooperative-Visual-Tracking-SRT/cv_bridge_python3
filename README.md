@@ -35,7 +35,7 @@ catkin_make
 Put this package into `src`.
 ```
 cd src
-git clone 
+git clone https://github.com/Cooperative-Visual-Tracking-SRT/cv_bridge_python3.git
 chmod +x cv_bridge_python3/scripts/publisher.py
 ```
 Put `cv_bridge` source code into `src`.
